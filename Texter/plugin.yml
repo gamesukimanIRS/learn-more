@@ -1,0 +1,12 @@
+name: Texter
+author: ImagicalGamer
+main: Texter\Main
+api: [1.0.0, 2.0.0]
+version: 1.1.0
+commands:
+ mypos:
+  usage: /mypos
+  description: 現在位置を表示します
+ mp:
+  usage: /mp
+  description: 現在位置を表示します
